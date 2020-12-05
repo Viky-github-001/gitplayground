@@ -20,6 +20,6 @@ The instructions directory contains 5 files that walk through git commands that 
  1. [Collaborating](instructions/collaborating.md) - 
     Walkthrough of commands and steps useful when collaborating.
 
-
+2.this is a test.
 #### Future plans
 I'd like to add a brief command reference for these and other commands at some point.
